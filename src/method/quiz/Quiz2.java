@@ -5,13 +5,13 @@ public class Quiz2 {
 	public static int hap(int n1, int n2) {
 		
 		int result = 0; // 합계를 저장할 변수
-		
-		for (int i = n1; i <= n2; i++) {
+	
+			for (int i = n1; i <= n2; i++) {
 			result = result + i;
 		}
 		return result;
-		
 	}
+
 	
 	public static void main(String[] args) {
 		

@@ -1,7 +1,7 @@
 package instance.quiz;
 
 public class Person {
-
+	
 	// 다음과 같이 사람클래스(Person)을 정의하세요.
 	// 속성 : 이름, 나이, 결혼여부, 자식수
 	
